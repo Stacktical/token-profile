@@ -1,0 +1,25 @@
+{
+  "symbol": "DSLA",
+  "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
+  "overview":{
+        "en": "Stacktical allows users to earn cryptocurrency tokens when the apps, websites and other online services go down.",
+        "zh": ""
+  },
+  "email": "contact@stacktical.com",
+  "website": "https://stacktical.com/",
+  "whitepaper": "https://storage.cloud.google.com/stacktical-public/STACKTICAL_DSLA-WHITE-PAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.000004 ETH"
+  },
+  "links": {
+    "blog": "https://medium.com/stacktical",
+    "twitter": "https://twitter.com/stackticgl",
+    "telegram": "https://t.me/stacktical",
+    "github": "https://github.com/Stacktical",
+    "facebook": "https://www.facebook.com/stacktical",
+    "reddit": "https://www.reddit.com/r/Stacktical/",
+    "medium": "https://medium.com/stacktical"
+  }
+}
